@@ -1,0 +1,11 @@
+{
+  "name": "sample",
+  "description": "sample",
+  "version": "0.1",
+  "main": "index.html",
+  "window": {
+    "toolbar": true,
+    "width": 660,
+    "height": 500
+  }
+}
