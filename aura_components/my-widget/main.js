@@ -13,7 +13,7 @@ define(['underscore','text!./template.tmpl','backbone'],
         this.$el.html( _.template(template,{name:"sam"}) );
         // 套用 template.tmpl 以設定 my-widget 所對應的 div //
       },
-      // C. 啟動 
+      // C. 啟動 主程式
       initialize: function() {
         this.render();
       }
